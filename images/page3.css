@@ -1,0 +1,122 @@
+h1 {
+text-align: center;
+font-family: 'Do Hyeon', sans-serif;
+    font-weight: bolder;
+    background-image: url("port.jpg");
+    background-size: 100%;
+    font-size: 100px;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h2{
+text-align: center;
+font-family: 'Do Hyeon', sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+
+}
+
+h3{
+text-align: center;
+font-family: 'Do Hyeon', sans-serif;
+    font-size: 60px;
+
+}
+
+h4{
+text-align: center;
+font-family: 'Do Hyeon', sans-serif;
+    font-size: 60px;
+}
+
+h5{
+text-align: center;
+font-family: 'Do Hyeon', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+
+h6{
+text-align: center;
+font-family: 'Do Hyeon', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+p{
+color: black;
+font-family: 'PT Sans', sans-serif;
+    font-size: 25px;
+     padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.customnav{
+ background-color: lightsalmon;
+    font-size: 40px;
+font-family: 'Montserrat', sans-serif;
+   padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: black;
+	}
+
+a:hover{
+background-color: white;
+    ;
+}
+
+.sectioncontainer{
+    padding: 20px;
+   font-family: 'Do Hyeon', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    
+    
+}
+
+.bandpic{
+border-bottom-color: pink;
+    height: 200px;
+}
+
+body{
+background-image: url('images/pi.png');
+    background-size: 100%;
+margin: 0;
+    padding: 0;
+
+}
+
+#merchcarousel{
+width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#app{
+color: black;
+font-family: 'Do Hyeon', sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+        
+}
+
+
